@@ -167,14 +167,6 @@ Key technical components implemented:
 4. **Volume Rendering**: Numerical quadrature using alpha compositing
 5. **Hierarchical Sampling**: Two-stage coarse-to-fine sampling strategy
 
-## Extensions & Future Work
-
-- **Speed Optimization**: Integrate instant-NGP hash encoding for faster training
-- **Unbounded Scenes**: Adapt for large-scale outdoor scenes (mip-NeRF 360)
-- **Dynamic Scenes**: Extend to time-varying content (D-NeRF)
-- **Custom Data**: Support COLMAP reconstructions for in-the-wild captures
-- **Compression**: Explore baking to explicit representations for real-time rendering
-
 ## References
 
 - Mildenhall et al., "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis," ECCV 2020
